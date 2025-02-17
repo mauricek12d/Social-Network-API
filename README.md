@@ -56,3 +56,7 @@ Thought Routes
 Reaction Routes
 - POST /api/thoughts/:thoughtId/reactions - Add a reaction
 - DELETE /api/thoughts/:thoughtId/reactions/:reactionId - Remove a reaction
+
+## Walkthrough Video
+
+https://drive.google.com/file/d/1bLcwWJyR8e_nKqDIVJQRV5r5IaakZF1N/view
