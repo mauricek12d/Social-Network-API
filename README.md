@@ -59,4 +59,5 @@ Reaction Routes
 
 ## Walkthrough Video
 
-https://drive.google.com/file/d/1bLcwWJyR8e_nKqDIVJQRV5r5IaakZF1N/view
+https://drive.google.com/file/d/1bLcwWJyR8e_nKqDIVJQRV5r5IaakZF1N/view 
+skip 5:04 - 6:28
